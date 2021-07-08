@@ -1,0 +1,1 @@
+# string, int, float, boolean/logico/bol
